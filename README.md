@@ -177,3 +177,10 @@ drift is not weakness
 needing support is not a defect
 The purpose of this system is to make earlier, quieter, lower-harm care possible.
 Its success is not measured by engagement, optimization, or growth, but by the number of crises that never occur.
+
+
+## License
+
+This work is released under Creative Commons Zero v1.0 Universal (CC0).
+It is placed in the public domain to ensure unrestricted access and prevent
+proprietary enclosure.
